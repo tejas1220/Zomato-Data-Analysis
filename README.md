@@ -152,7 +152,7 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-**Nikhil Pore**
+**Dubal Tejas**
 
 📧 Email: tejasdubal209@gmail.com
 
